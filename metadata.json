@@ -1,0 +1,6 @@
+{
+  "name": "SlapDroid",
+  "description": "A novelty Android app reacting to physical movement using background sensors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
